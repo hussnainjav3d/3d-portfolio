@@ -1,4 +1,4 @@
-// Copyright Ahmad Yaqoob 2021,2022. All Rights Reserved.
+// Copyright Hussnain Javed 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -16,10 +16,10 @@ const Header = () => {
       <div className="flex justify-between section-container">
         <a href="#home" className="link">
           <Image
-            src="/logo.svg"
-            alt="Logo - Ahmad Yaqoob"
-            width={28}
-            height={28}
+            src="/logo.png"
+            alt="Logo - Hussnain Javed"
+            width={50}
+            height={50}
           />
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>

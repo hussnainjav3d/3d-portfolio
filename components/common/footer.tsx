@@ -1,4 +1,4 @@
-// Copyright Ahmad Yaqoob 2021,2022. All Rights Reserved.
+// Copyright Hussnain Javed 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -38,7 +38,7 @@ const Footer = () => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Ahmad_Yaqoob_resume.pdf"
+          href="/HussnainJaved.pdf"
         ></Button>
         {/* <Button
           classes="ml-3"
@@ -51,9 +51,9 @@ const Footer = () => {
           }}
         ></Button> */}
       </div>
-      <h2 className="text-center text-sm sm:text-base mt-8">
-        Designed and Developed with ❤️ by Ahmad
-      </h2>
+      {/* <h2 className="text-center text-sm sm:text-base mt-8">
+        Designed and Developed with ❤️ by Hussnain
+      </h2> */}
     </>
   );
 

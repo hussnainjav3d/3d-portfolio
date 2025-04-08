@@ -1,4 +1,4 @@
-// Copyright Ahmad Yaqoob 2021,2022. All Rights Reserved.
+// Copyright Hussnain Javed 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -15,7 +15,7 @@ const Scripts = React.memo(() => {
         {`
           (function(w,d,v3){
             w.chaportConfig = {
-              appId : '66f9d098027bf57a2eb6e532'
+              appId : '67f59b6a8582f636c7a53b0c'
             };
   
             if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};

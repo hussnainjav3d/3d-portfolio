@@ -1,4 +1,4 @@
-// Copyright Ahmad Yaqoob 2021,2022. All Rights Reserved.
+// Copyright Hussnain Javed 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -83,7 +83,7 @@ const HeroSection = React.memo(() => {
     <div className={HERO_STYLES.CONTENT}>
       <div className="md:mb-4 mb-2">
         <h2 className="text-4xl seq">Hello 👋🏻</h2>
-        <h1 className="text-2xl seq">I am Ahmad Yaqoob</h1>
+        <h1 className="text-2xl seq">I am Hussnain Javed</h1>
       </div>
       <p className="mb-4">
         <span className={HERO_STYLES.TYPED_SPAN} ref={typedSpanElement}></span>
@@ -98,7 +98,7 @@ const HeroSection = React.memo(() => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Ahmad_Yaqoob_resume.pdf"
+          href="/HussnainJaved.pdf"
         ></Button>
         {/* <Button
           classes="ml-3"
